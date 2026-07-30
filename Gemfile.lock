@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/kaynnan/brcobranca.git
-  revision: e05443a7a89a57c6bf2c5afe2a8580e8490a5b68
+  revision: 6411138021726452ebdc66cde6357796df974e9c
   branch: itau-cnab240
   specs:
     brcobranca (12.0.0)
