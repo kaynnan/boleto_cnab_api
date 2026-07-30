@@ -1,12 +1,12 @@
 GIT
-  remote: https://github.com/kivanio/brcobranca.git
-  revision: b537cfdf3706749568e4e53580abffaeb431a221
+  remote: https://github.com/kaynnan/brcobranca.git
+  revision: 237f3a4991136146135224173592f671050d5ea6
+  branch: itau-cnab240
   specs:
-    brcobranca (10.1.0)
-      activesupport (>= 5.2.6)
+    brcobranca (12.0.0)
       fast_blank
       parseline (>= 1.0.3)
-      rghost (>= 0.9.8)
+      rghost (= 0.9.8)
       rghost_barcode (>= 0.9)
 
 GEM
@@ -70,4 +70,4 @@ DEPENDENCIES
   puma
 
 BUNDLED WITH
-   2.4.18
+   2.4.19
